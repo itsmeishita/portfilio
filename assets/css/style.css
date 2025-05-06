@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  background-color: #1f1f1f;
+  border-radius: 50px;
+  height: 80px;
+
+}
+
+
+.nav-links  a {
+  color:white;
+  padding: 90px 100px;
+  text-align: center;
+  
+}
+
+.nav-links li {
+  display: inline-block;
+  justify-content: space-around;
+  align-items: center;
+  
+  }
+
+.logo {
+  color: rgb(243, 235, 234);
+  font-weight: bold;
+  
+}
+
+.logo .icon {
+  background-color: hwb(17 20% 8%);
+  color: white;
+  border-radius: 60%;
+  padding: 10px;
+  font-size: 25px;
+  width: 50px;
+  height: 50px;
+}
+
+ .navbar {
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+
+ }
+
+ .hello {
+   background-color: #eee;
+   display: inline-block;
+   
+   padding: 5px 15px;
+   border-radius: 20px;
+   color: #53375c;
+   font-weight: 500;
+   margin-bottom: 10px;
+ }
+  
+
+ 
+ .rating {
+   display: flex;
+   align-items: center;
+   gap: 10px;
+   margin-top: 20px;
+ }
+
+ .intro-image img {
+   height: 100%;
+   width: 100%;
+   border-radius: 10px;
+   align-items: center;
+   
+ }
+ .swiper {
+   width: 100%;
+   height: 100%;
+ }
+
+ .swiper-slide {
+   text-align: center;
+   font-size: 18px;
+   background: #fff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+ }
+
+ .swiper-slide img {
+   display: block;
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+ }
+ .slide-item {
+  height: 300px;
+ }
+ .services{
+  font-size: 48px;
+  color:#ffffff;
+ }
+ .icon {
+  font-size: 20px;
+  color: hwb(265 38% 50%);
+  margin-right: 10px;
+ }
+ .span {
+  font-size: 20px;
+  color: hwb(265 38% 50%);
+  margin-right: 10px;
+ }
+ .graphic{
+  font-size: 100px;
+ }
+
+ .years{
+  height: 32px;
+ 
+ }
+ 
+ .year{
+  font-size: 47px;
+  
+ }
+
+ .block-1, .block-2{
+  width: 300px;
+ }
+
+ .discription{
+  font-size: 20px;
+ 
+ }
+ .exp{
+  font-size: 20px;
+  
+ }
+ .work{
+  font-size: 64px;
+  
+ }
+ .bg-3{
+  text-align: center;
+  max-height: 50px;
+  
+ }
+ .bg-2{
+  border-radius: 2%;
+  
+ }
