@@ -139,14 +139,29 @@ body {
  }
  .work{
   font-size: 64px;
+  padding: 50px;
   
  }
  .bg-3{
   text-align: center;
-  max-height: 50px;
+  ;
   
  }
  .bg-2{
-  border-radius: 2%;
+  border-radius: 5%;
   
  }
+ .btn{
+  background-color: hwb(270 96% 3%);
+  color: rgb(14, 13, 13);
+  padding: 10px 20px;
+  border: black 2px solid;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 16px;
+
+ }
+.hire{
+  font-size:64px;
+}
+ 
