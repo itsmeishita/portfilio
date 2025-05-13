@@ -170,7 +170,7 @@ body {
 .btn2{
   background-color: hwb(270 96% 3%);
   color: rgb(14, 13, 13);
-  padding: 20px 40px;
+  padding: 10px 40px;
   border: rgb(61, 53, 53) 1px solid;
   border-radius: 32px;
   cursor: pointer;
@@ -181,4 +181,49 @@ body {
 .no{
   font-size: 36px;
   color: hwb(0 0% 100%); 
+}
+.btn3{
+  background-color:rgb(226, 116, 25); ;
+  color: rgb(255, 255, 255);
+  padding: 10px 30px;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  border: rgb(226, 116, 25) 1px solid;
+}
+.btn4{
+  background-color: hwb(270 96% 3%);
+  color: rgb(14, 13, 13);
+  padding: 5px 30px;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  border: hwb(270 96% 3%) 1px solid;
+  
+}
+.portfolio{
+  font-size: 64px;
+  color: hwb(0 0% 100%);
+  
+}
+.lf{
+  font-size: 48px;
+  color: hwb(0 0% 100%);
+}
+.arrow{
+  height: 52px;
+}
+.test{
+  font-size: 48px;
+  color: hwb(0 0% 100%);
+}
+.btn5{
+
+  color: rgb(14, 13, 13);
+  padding: 5px 40px;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 16px ;
+  border: hwb(0 0% 100%) 1px solid;
+  
 }
